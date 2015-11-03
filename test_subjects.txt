@@ -1,0 +1,7 @@
+warshall
+avl
+binary tree traversal (function)
+(show tracing with profs style)
+binary tree code
+graph code
+something with queues and simulations
